@@ -4,7 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		new BoardController().mainMenu();
-		System.out.println("내가 추가한 것");
+		int age = 10;
+		System.out.println(age);
 
 	}
 
